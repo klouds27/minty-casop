@@ -12,10 +12,12 @@ Explora el diseño tipo "Card" que he creado para cada apartamento. Cada tarjeta
 Este proyecto destaca mi enfoque en el diseño de interfaz de usuario (UI) y la experiencia del usuario (UX). Aprenderás cómo he creado una interfaz atractiva y funcional para garantizar una experiencia de usuario excepcional.
 
 ### 🌟 Tecnologías Utilizadas
-Vue.js
-HTML
-CSS
-JSON
+- Vue.js
+- HTML
+- CSS
+- JSON
+- Git
+- Visual Studio Code
 
 ### 🌱 Lecciones Aprendidas 
 Este proyecto me permitió sumergirme en el desarrollo frontend utilizando Vue.js, centrándome en la creación de componentes reutilizables y en la estructura modular de la interfaz de usuario. Además, destaco mi habilidad para diseñar una experiencia de usuario intuitiva y atractiva.
