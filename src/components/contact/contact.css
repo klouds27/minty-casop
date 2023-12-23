@@ -1,0 +1,28 @@
+.contacto form div {
+  display: flex;
+}
+.contacto textarea {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.contacto input {
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+.contacto form {
+  padding: 30px;
+}
+@media screen and (max-width: 768px) {
+  .contacto h4 {
+      width: 100%;
+      margin-bottom: 30px;
+  }
+  .contacto form div {
+      flex-direction: column;
+  }
+  .contacto input {
+      width: 100%;
+  }
+}
